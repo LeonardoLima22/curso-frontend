@@ -29,3 +29,12 @@ Informação de alteração
 - git pull (puxar / trazer alterações do Github para a sua máquina)
 
 ## GitFlow
+Fluxo do Git
+
+### Branchs
+Ramificações / Versões paralelas
+
+- main / master
+- develop
+- DOD Definition of Done: critérios de aceite
+- versionamento 1.0.0
