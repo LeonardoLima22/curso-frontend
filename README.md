@@ -43,5 +43,19 @@ git checkout -b dev (cria uma branch chamada dev)
 git checkout main (muda para a branch main)
 
 
+
+
 ### Merge
 Mescla de branchs
+Você pode precisar resolver conflitos manualmente
+
+git merge main
+
+### Pull Requests
+Mescla de branchs no repositório
+Permite code review
+O repositório resolve os conflitos automaticamente
+
+### Configurar o GitFlow
+git flow init
+git flow feature start {nome-da-feature}
