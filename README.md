@@ -1,4 +1,17 @@
-## Instalacao do Git
+### Curso Front-end
+
+### Git
+
+## Conceitos de versionamento
+- Histórico
+- Controle de versão
+- Quem alterou
+- O quê alterou
+- Quando alterou
+- Todos os arquivos
+- Evolução contínua
+
+## Instalação do Git
 https://git-scm.com
 
 ## Criar conta no Github
