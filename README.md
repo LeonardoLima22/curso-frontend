@@ -1,6 +1,6 @@
-### Curso Front-end
+# Curso Front-end
 
-### Git
+# Git
 
 ## Conceitos de versionamento
 - Histórico
